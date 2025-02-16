@@ -1,1 +1,3 @@
+# Config
+Server configuration files.
 
