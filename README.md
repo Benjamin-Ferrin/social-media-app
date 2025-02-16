@@ -1,20 +1,31 @@
 # Social Media Application
 
-A full-stack social media application built with the MERN stack.
+A full-stack social media application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ## Features
-- User authentication
-- Post creation with images
-- Like and comment functionality
-- Real-time updates
-- Profile management
+- 👤 User Authentication
+- 📝 Create and Share Posts
+- 📸 Image Upload Support
+- ❤️ Like and Comment System
+- 🔄 Real-time Updates
+- 👥 User Profiles
 
-## Installation
+## Tech Stack
+- Frontend: React.js
+- Backend: Node.js & Express.js
+- Database: MongoDB
+- Authentication: JWT
+- Image Storage: Cloudinary
+- Real-time: Socket.io
+
+## Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
-- MongoDB
+- MongoDB Account
 - npm or yarn
+- Git
 
-### Setup
+### Installation
+
 1. Clone the repository
